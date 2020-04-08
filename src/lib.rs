@@ -28,6 +28,9 @@ mod engine;
 mod providers;
 mod utils;
 
+#[allow(dead_code)]
+mod query;
+
 ///////////////////////////////////////////////////////////
 // Run
 
